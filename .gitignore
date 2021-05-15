@@ -1,0 +1,6 @@
+# よくわからないのでいったん自動で作られたものは全てgit対象外にする
+variable.tf
+.terraform
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+terraform.tfstate
